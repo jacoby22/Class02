@@ -1,7 +1,6 @@
 // var userName = prompt('What\'s your name?');
 // alert('Welcome to my page, ' + userName);
 
-
 var questionOne = prompt('What state was I born in?').toLowerCase();
 // questionOne.toLowerCase();
 
@@ -13,3 +12,4 @@ else {
   alert('Sorry, you no know me... Sad trombone.');
   //do something else;
 }
+var x = 2;
